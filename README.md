@@ -1,1 +1,1 @@
-I've uploaded the solutions to all the problems from LeetCode and DataLemur. 
+I've uploaded SQL queries to most of the problems from LeetCode and DataLemur. 
